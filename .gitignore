@@ -1,0 +1,24 @@
+/bin/
+# Eclipse
+.metadata/
+.settings/
+*.class
+
+# OS files
+AppData/
+Documents/
+Downloads/
+OneDrive/
+Desktop/
+
+# IDE
+.vscode/
+.idea/
+
+# Java build
+bin/
+out/
+
+# System files
+*.log
+*.tmp
